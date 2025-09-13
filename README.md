@@ -1,6 +1,17 @@
-# MASH_immune
+# MASH_Gribben
 
-Repository for the re-analysis of the paper: "Single-cell atlas of human liver and blood
-immune cells across fatty liver disease stages
-reveals distinct signatures linked to liver
-dysfunction and fibrogenesis" by *Martin et al*
+Repository for the re-analysis of the paper: 
+
+Acquisition of epithelial plasticity in human chronic liver disease
+
+https://www.nature.com/articles/s41586-024-07465-2
+
+https://www.mohorianulab.org/shiny/vallier/LiverPlasticity_GribbenGalanakis2024/
+
+https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE202379
+
+https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE302815
+
+https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE267195
+
+
