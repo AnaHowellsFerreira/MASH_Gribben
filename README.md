@@ -1,6 +1,6 @@
 # MASH_GSE202379
 
-Repository for the re-analysis of the paper by Gribben et al: 
+Repository for the re-analysis of the paper by Gribben et al, 2024 (Nature): 
 
 Acquisition of epithelial plasticity in human chronic liver disease
 
