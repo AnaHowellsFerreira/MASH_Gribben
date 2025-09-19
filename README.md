@@ -10,9 +10,6 @@ https://www.mohorianulab.org/shiny/vallier/LiverPlasticity_GribbenGalanakis2024/
 
 https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE202379
 
-# MASH_GSE267195
 
-
-https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE267195
 
 
