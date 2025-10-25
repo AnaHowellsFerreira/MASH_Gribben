@@ -11,5 +11,6 @@ https://www.mohorianulab.org/shiny/vallier/LiverPlasticity_GribbenGalanakis2024/
 https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE202379
 
 
-
+Some of the code here is an extension of the analysis in this paper, rather
+than trying to duplicate their analysis! 
 
